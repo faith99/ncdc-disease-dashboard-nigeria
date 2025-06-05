@@ -46,7 +46,9 @@ This dashboard was built to make complex disease data understandable for everyon
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
+The dataset is published under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+You are free to share and adapt the data **for non-commercial purposes**, as long as proper attribution is given.
 
