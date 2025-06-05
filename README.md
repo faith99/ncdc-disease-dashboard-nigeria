@@ -38,7 +38,7 @@ This project explores Nigeria's disease surveillance data from 2013 and 2015, co
 |--------|-------------|
 | `sql_queries/` | Contains SQL scripts used for data cleaning and EDA |
 | `visuals/` | Screenshots, and image assets |
-| `docs/` | summary reports |
+| `report/` | summary reports |
 
 ## Why It Matters
 
